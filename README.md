@@ -1,1 +1,1 @@
-# RingCommunication-Java-ComputerNetworks
+# ProiectRC
